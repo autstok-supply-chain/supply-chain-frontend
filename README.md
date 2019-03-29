@@ -11,16 +11,16 @@ Web application will be opened in browser at address http://localhost:3000
 
 ### Main menu
 
-![](src/01.png | width=240)
+![](img/01.png | width=240)
 
 ### Account management
 
-![](src/02.png | width=240)
+![](img/02.png | width=240)
 
 ### QR Creation
 
-![](src/03.png | width=240)
+![](img/03.png | width=240)
 
 ### QR Scanning
 
-![](src/04.png | width=240)
+![](img/04.png | width=240)
